@@ -681,6 +681,8 @@ _Everything that simplifies interactions with the database._
 
 > **[SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler)** <kbd>★ 1.8k</kbd> 🟢<br>Discovers, documents and diagrams relational database schemas from Java, build tools and the command line.
 
+> **[SchemaSynchronizer](https://github.com/eugenena/SchemaSynchronizer)**  <kbd>Apache-2.0</kbd>🟢<br>A library for Schema Synchronization for Postgres, MySQL, MariaDB, Oracle and SQL server.
+
 > **[Spring Data Dynamic Query](https://github.com/tdilber/spring-data-dynamic-query)** <kbd>★ 39</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Unified dynamic query interface for Spring Data JPA, MongoDB, and Elasticsearch, enabling advanced JOIN(s), OR logic, scoped conditions, powerful projections and advanced features with zero boilerplate.
 
 > **[Spring Data JPA MongoDB Expressions](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions)** <kbd>★ 107</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Allows you to use MongoDB query language to query your relational database.
